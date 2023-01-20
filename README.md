@@ -9,3 +9,14 @@ Desafio, "Criando Uma Wiki de Repositórios do GitHub Com React", do bootcamp Or
 - [Axios](https://axios-http.com/docs/intro)
 - [GitHubAPI](https://docs.github.com/en/rest?apiVersion=2022-11-28)
 
+## Como usar
+- Coloque o nome de usuário do github desejado
+- Adicione uma barra, " / "
+- Agora coloque o nome do repositório desejado
+Exemplo usando esse repositório:
+
+
+
+      thiagosilvanatenor/GitHubRepoWiki-Desafio-Dio
+
+![image](https://user-images.githubusercontent.com/99970279/213785204-7d813ddc-b7ad-4408-9090-4f20aeefb42e.png)
